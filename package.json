@@ -1,0 +1,12 @@
+{
+  "name": "git-clone-repo",
+  "version": "1.0.0",
+  "description": "Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
